@@ -1,0 +1,9 @@
+# Checkout
+def checkout():
+    if not cart:
+        print("Cart is empty.")
+        return
+    print("\nCheckout Summary:")
+    view_cart()
+    print("Thank you for shopping with us!")
+    cart.clear()
