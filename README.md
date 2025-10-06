@@ -1,6 +1,7 @@
 # Shopping-Cart-Project Using Python 
 A simple console-based Shopping Cart application implemented in Python.
-# Features
+## Features
+
 1.View predefined products
 2.Add products to cart (max 8 distinct items)
 3.View cart with item subtotals and total bill
@@ -9,7 +10,8 @@ A simple console-based Shopping Cart application implemented in Python.
 6.Checkout (shows bill and empties cart)
 # Requirements
 Python 3.8+
-# Files
+## Files
+
 1.shopping_cart.py- Main menu script to run the app.
 2.view_products.py- Display all available products with price and ID.
 3.add_cart.py- Add product to cart with quantity.
@@ -18,7 +20,8 @@ Python 3.8+
 6.remove_cart.py- Delete a product from the cart.
 7.checkout_cart.py- Show final bill and empty the cart.
 8.exit.py- Close the application.
-# How to run
+## How to run
+
 Open a terminal.
 Navigate to the project folder.
 Run: python shopping_cart.py
